@@ -50,7 +50,7 @@ const Footer = () => {
                 </Link>
               </ListItem>
               <ListItem m="0.5rem">
-                <Link isExternal href="#">
+                <Link isExternal href="https://linkedin.com/in/joãomaiaa">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
